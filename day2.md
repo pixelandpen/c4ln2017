@@ -3,6 +3,7 @@
 ## Roles for the library in infrastructure breakdown
 
 - John Fink
+- [Slides](https://jbfink.github.io/c4ln2017/#0)
 - amateur radio demographics - old, white males
 - can now buy radio transceiver (transmitter, receiver) for $35 - hopefully will encourage broader demographic involvement
 - backup power is another issue in time of emergency
@@ -14,6 +15,7 @@
 ## I didn't become a worse librarian when I became a grad student
 
 - Tim Ribaric
+- [Slides](https://docs.google.com/presentation/d/14LZmpz4vWP7E9lvgQH6cXbValZkYIfqDXJ9nrLXh678/edit#slide=id.p)
 - librarian, code, researcher (rock, paper, scissors - each has strength and weakness)
 - had to circumvent barriers due to Brock's limitations on research resources 
 - empathy is created through shared experiences
