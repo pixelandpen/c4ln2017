@@ -112,8 +112,9 @@
   - [universalviewer.io](http://universalviewer.io/) - takes an IIIF manifest and presents it
   - Bodleian library has a [IIIF manifest editor](https://github.com/bodleian/iiif-manifest-editor) - [source code](https://github.com/bodleian/iiif-manifest-editor)
 - used [JHOVE](http://jhove.sourceforge.net/) for analysis and validation of files e.g. needed to know dimensions of images that were moving to the new system in CouchDB
-- they validated over 60M images - only about 1.6% of files were note well-formed (1.5%) or not valid (0.09%); JPGs were mostly correct, but TIFFs and PDFs had many issues
-- everything that [Poppler](https://poppler.freedesktop.org/) generated were not considered valid by JHOVE - they were recently-added items i.e. multipage PDFs that were created from single page PDFs 
+  - they validated over 60M images - only about 1.6% of files were note well-formed (1.5%) or not valid (0.09%); JPGs were mostly correct, but TIFFs and PDFs had many issues
+  - everything that [Poppler](https://poppler.freedesktop.org/) generated were not considered valid by JHOVE - they were recently-added items i.e. multipage PDFs that were created from single page PDFs 
+  - see [blog post](http://mcormond.blogspot.ca/2017/05/jhove.html?spref=tw) for more details
 - most people don't have tools to generate PDF/a format - but goal is to generate PDF/a from the new system
 - IIIF uses tiling (aka Map Server) to handle zoom/pan
 - using IIIF has allowed them to move from monolithic application to multiple smaller applications
