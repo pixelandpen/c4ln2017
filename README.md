@@ -7,4 +7,4 @@ Notes from the various presentations and hackfests:
 - [Day 1](day1.md)
 - [Day 2](day2.md)
 
-
+Twitter timeline for [#c4ln17](https://twitter.com/search?q=%23c4ln17)
