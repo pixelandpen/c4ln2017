@@ -44,7 +44,8 @@
 
 ## Putting maps on the map
 
-- Sarah Simpkin         
+- Sarah Simpkin
+- [Slides](https://docs.google.com/presentation/d/1wqH1OWtNvZa_Ppv5qTvJ5XMyF7_IY4RuYNrX38sxEPw/edit#slide=id.g164ac08eb9_0_24)
 - digitizing 1000+ maps of Ontario topographical maps
 - important for researchers tracking changes over time
 - crowd sourced a listing of maps across schools
