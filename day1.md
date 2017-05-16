@@ -3,6 +3,7 @@
 ## Static website generators
 
 - Kaitlin Newson - @kaitlinnewson
+- [Slides](https://www.kaitlinnewson.com/page/c4ln17/#/)
 - Digital Projects Librarian at Scholars Portal
 - most popular static generator is [Jekyll](https://jekyllrb.com/) (built in Ruby)
 - benefits - performance; fewer/less resources required on server; security; version control; simple hosting (e.g. GitHub pages, OLRC)
